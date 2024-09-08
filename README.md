@@ -47,10 +47,5 @@ The algorithm efficiently schedules tasks in a mobile cloud computing environmen
   
 - **Time Constraint Impact**: Without time constraints, the algorithm tends to schedule all tasks to the **cloud**, as it becomes the most energy-efficient option, despite potentially longer execution times.
 
----
-
-## **License**
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
 ---
