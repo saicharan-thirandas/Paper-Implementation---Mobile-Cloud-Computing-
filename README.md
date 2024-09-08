@@ -1,5 +1,3 @@
-Here’s the revised **README** file with the changes you requested:
-
 ---
 
 # **Paper Implementation: Energy and Performance-Aware Task Scheduling in a Mobile Cloud Computing Environment**
